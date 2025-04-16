@@ -1,3 +1,1 @@
-import time 
-import pyautogui
-
+print("Hello world")
